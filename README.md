@@ -93,8 +93,12 @@ The Calculate button has been pressed, and it now says:
 
 This is the earliest stage in the waiting process before the next message “Still thinking…” appears, leading up to the final answer.
 
-![Screenshot2](WhatsApp Image 2025-08-08 at 10.52.37 PM (1).jpeg)
-
+![Screenshot2](https://github.com/MMalavika20/Slow-Calculator/blob/6372c4678ddb62151b0a143926987e7b3e234629/WhatsApp%20Image%202025-08-08%20at%2010.52.37%20PM%20(1).jpeg)Title: “Slow Calculator” with a turtle emoji 🐢, implying it processes slowly on purpose.
+Two input boxes containing the numbers 10 and 20.
+A dropdown menu with the Add operation selected.
+A green Calculate button.
+Status text below: “Still thinking…”, suggesting the calculator is simulating a delay before showing the result.
+State: The calculation has been initiated, but the result hasn’t been displayed yet.
 
 ![Screenshot3](WhatsApp Image 2025-08-08 at 10.52.36 PM.jpeg)
 *Add caption explaining what this shows*
