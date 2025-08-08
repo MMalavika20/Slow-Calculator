@@ -14,7 +14,7 @@
   
 
 ### Project Description
-[2-3 lines about what your project does]
+[Slow Calculator is a simple calculator application that performs basic arithmetic operations (addition, subtraction, multiplication, and division) but with a deliberate delay before showing the result. It simulates a “thinking” process, making it fun, interactive, and a bit frustrating — just like a slow human calculator.]
 
 ### The Problem (that doesn't exist)
 [What ridiculous problem are you solving?]
@@ -100,8 +100,14 @@ A green Calculate button.
 Status text below: “Still thinking…”, suggesting the calculator is simulating a delay before showing the result.
 State: The calculation has been initiated, but the result hasn’t been displayed yet.
 
-![Screenshot3](WhatsApp Image 2025-08-08 at 10.52.36 PM.jpeg)
-*Add caption explaining what this shows*
+![Screenshot3](https://github.com/MMalavika20/Slow-Calculator/blob/872a54e2b053789b3d57ca8e492f29bd9652edc1/WhatsApp%20Image%202025-08-08%20at%2010.52.36%20PM.jpeg)
+Title: “Slow Calculator” with a turtle emoji 🐢, symbolizing intentional slowness.
+Two input fields containing numbers 10 and 20.
+A dropdown menu with the Add operation selected.
+A green Calculate button.
+A result message below:
+> 💡 Here’s your answer… probably: 30
+Functionality Shown: The calculator has processed the input numbers and displayed the result of the addition (10 + 20 = 30) after a short simulated delay, which is part of its “slow” theme.
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
