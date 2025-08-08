@@ -128,7 +128,7 @@ For Hardware:
 
 ### Project Demo
 # Video
-[WhatsApp Video 2025-08-09 at 1.54.24 AM.mp4]
+  [https://github.com/MMalavika20/Slow-Calculator/blob/1a6f6aac9622fd972da98607f8d64f9566d2695e/WhatsApp%20Video%202025-08-09%20at%201.54.24%20AM.mp4]
 *This project simulates a "Slow Calculator" — a calculator that intentionally introduces a slight delay before displaying results. The main goal is to demonstrate the concept of computational delay and help learners understand how processing time or algorithm complexity affects output speed in real-world applications.Performs basic arithmetic operations: addition, subtraction, multiplication, and division.
 Adds a deliberate lag (usually a few seconds) before showing the result.While the calculator works correctly and shows the result within a few seconds, the lag is intentional and is used to:
 Simulate the effect of inefficient processing.
