@@ -85,7 +85,7 @@ A modern web browser
 (Optional) VS Code with Live Server extension
 
 # Screenshots (Add at least 3)
-![Screenshot1](WhatsApp Image 2025-08-08 at 10.52.37 PM.jpeg)
+![Image1](WhatsApp Image 2025-08-08 at 10.52.37 PM.jpeg)
 This is the initial delay stage just after starting the calculation.
 Same input values are present (10 + 20).
 The Calculate button has been pressed, and it now says:
