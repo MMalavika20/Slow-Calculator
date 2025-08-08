@@ -88,7 +88,7 @@ A modern web browser
 ![Screenshot1](WhatsApp Image 2025-08-08 at 10.52.36 PM.jpeg)
 *Add caption explaining what this shows*
 
-![Screenshot2](WhatsApp Image 2025-08-08 at 10.52.37 PM.jpeg)
+![Screenshot2](WhatsApp Image 2025-08-08 at 10.52.37 PM (1).jpeg)
 *Add caption explaining what this shows*
 
 ![Screenshot3](WhatsApp Image 2025-08-08 at 10.52.36 PM.jpeg)
