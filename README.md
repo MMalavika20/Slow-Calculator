@@ -94,7 +94,7 @@ The Calculate button has been pressed, and it now says:
 This is the earliest stage in the waiting process before the next message “Still thinking…” appears, leading up to the final answer.
 
 ![Screenshot2](WhatsApp Image 2025-08-08 at 10.52.37 PM (1).jpeg)
-*Add caption explaining what this shows*
+
 
 ![Screenshot3](WhatsApp Image 2025-08-08 at 10.52.36 PM.jpeg)
 *Add caption explaining what this shows*
