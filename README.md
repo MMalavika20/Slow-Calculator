@@ -85,7 +85,7 @@ A modern web browser
 (Optional) VS Code with Live Server extension
 
 # Screenshots (Add at least 3)
-![Image1](WhatsApp Image 2025-08-08 at 10.52.37 PM.jpeg)
+![Image1](https://github.com/MMalavika20/Slow-Calculator/blob/91a60dd674fb498d921eb5a80e610a25f714de66/WhatsApp%20Image%202025-08-08%20at%2010.52.37%20PM.jpeg)
 This is the initial delay stage just after starting the calculation.
 Same input values are present (10 + 20).
 The Calculate button has been pressed, and it now says:
