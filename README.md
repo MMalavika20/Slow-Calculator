@@ -85,8 +85,13 @@ A modern web browser
 (Optional) VS Code with Live Server extension
 
 # Screenshots (Add at least 3)
-![Screenshot1](WhatsApp Image 2025-08-08 at 10.52.36 PM.jpeg)
-*Add caption explaining what this shows*
+![Screenshot1](WhatsApp Image 2025-08-08 at 10.52.37 PM.jpeg)
+*This is the initial delay stage just after starting the calculation.
+Same input values are present (10 + 20).
+The Calculate button has been pressed, and it now says:
+> Thinking…
+
+This is the earliest stage in the waiting process before the next message “Still thinking…” appears, leading up to the final answer.*
 
 ![Screenshot2](WhatsApp Image 2025-08-08 at 10.52.37 PM (1).jpeg)
 *Add caption explaining what this shows*
